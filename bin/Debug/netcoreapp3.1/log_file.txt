@@ -1,0 +1,62 @@
+2020-09-23 19:44:08.7647|INFO|MovieProject.Program|Program started.
+2020-09-23 19:44:21.0854|INFO|MovieProject.Program|Duplicate movie was attempted to be added.
+2020-09-23 19:44:33.5882|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.5960|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.5960|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.5960|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.5960|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.5960|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.6043|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.6043|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.6043|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:44:33.6043|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:45:01.9115|INFO|MovieProject.Program|program ended.
+2020-09-23 19:45:06.3943|INFO|MovieProject.Program|Program started.
+2020-09-23 19:45:17.4982|INFO|MovieProject.Program|New movie added
+2020-09-23 19:45:18.4594|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 19:46:03.5647|INFO|MovieProject.Program|program ended.
+2020-09-23 19:46:08.4225|INFO|MovieProject.Program|Program started.
+2020-09-23 19:47:11.7870|INFO|MovieProject.Program|New movie added
+2020-09-23 19:47:12.2377|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 19:47:19.3263|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:49:03.1417|INFO|MovieProject.Program|program ended.
+2020-09-23 19:49:05.5254|INFO|MovieProject.Program|Program started.
+2020-09-23 19:49:09.4900|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:54:17.0777|INFO|MovieProject.Program|program ended.
+2020-09-23 19:54:22.2378|INFO|MovieProject.Program|Program started.
+2020-09-23 19:54:35.2096|INFO|MovieProject.Program|New movie added
+2020-09-23 19:54:35.2262|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 19:55:35.8014|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:57:53.8204|INFO|MovieProject.Program|program ended.
+2020-09-23 19:57:59.5465|INFO|MovieProject.Program|Program started.
+2020-09-23 19:58:37.5885|INFO|MovieProject.Program|New movie added
+2020-09-23 19:58:37.6582|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 19:58:41.9022|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 19:59:58.7370|INFO|MovieProject.Program|program ended.
+2020-09-23 20:00:03.4683|INFO|MovieProject.Program|Program started.
+2020-09-23 20:00:19.5518|INFO|MovieProject.Program|New movie added
+2020-09-23 20:00:20.3287|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 20:00:23.7947|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 20:02:30.4726|INFO|MovieProject.Program|program ended.
+2020-09-23 20:02:33.9181|INFO|MovieProject.Program|Program started.
+2020-09-23 20:02:50.0936|INFO|MovieProject.Program|New movie added
+2020-09-23 20:02:50.1160|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 20:03:00.2785|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 20:03:32.1073|INFO|MovieProject.Program|program ended.
+2020-09-23 20:03:49.3483|INFO|MovieProject.Program|Program started.
+2020-09-23 20:04:03.8942|INFO|MovieProject.Program|New movie added
+2020-09-23 20:04:03.9196|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 20:04:15.8761|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 20:04:47.3614|INFO|MovieProject.Program|New movie added
+2020-09-23 20:04:47.3815|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 20:05:17.5630|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 20:05:28.2050|INFO|MovieProject.Program|Duplicate movie was attempted to be added.
+2020-09-23 20:05:33.3455|INFO|MovieProject.Program|program ended.
+2020-09-23 20:10:31.0086|INFO|MovieProject.Program|Program started.
+2020-09-23 20:10:34.8569|INFO|MovieProject.Program|Successfully read from file
+2020-09-23 20:11:10.5108|INFO|MovieProject.Program|New movie added
+2020-09-23 20:11:10.5303|INFO|MovieProject.Program|Successfully connected and wrote to file
+2020-09-23 20:11:33.3537|INFO|MovieProject.Program|program ended.
+2020-09-23 20:11:36.2750|INFO|MovieProject.Program|Program started.
+2020-09-23 20:11:54.2082|INFO|MovieProject.Program|New movie added
+2020-09-23 20:11:54.3740|INFO|MovieProject.Program|Successfully connected and wrote to file
